@@ -1,14 +1,15 @@
 ![image](https://github.com/kainlighty/LightStaffList/assets/111251772/7315dc9f-3525-4e7b-abd6-f2c9c134ead0)
 ### › Features
-- Displaying staff online
+- Displaying all Staffs
 
-![image](https://github.com/kainlighty/LightStaffList/assets/111251772/82011435-7108-46aa-a333-ccf09dbd94a2)
+![img-2023-05-23-03-42-34](https://github.com/kainlighty/LightStaffList/assets/111251772/098e4768-7989-4e5f-8849-0547fe8f4e6f)
+
 - Editable messages
 - Works directly with LuckPerms
 - Automatic addition of administrators
 - Custom message about staff join the server for players and administrators - you can disable
 
-![image](https://github.com/kainlighty/LightStaffList/assets/111251772/8db7ba47-f675-409d-a129-91ee8ff14393)
+![img-2023-05-23-03-46-50](https://github.com/kainlighty/LightStaffList/assets/111251772/d84eae80-6c75-4a02-9ff4-3acf87ac5cef)
 
 ### › Commands
 - /lightstafflist » Online staff list
