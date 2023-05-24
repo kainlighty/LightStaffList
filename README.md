@@ -9,7 +9,7 @@
 - Automatic addition of administrators
 - Custom message about staff join the server for players and administrators - you can disable
 
-![img-2023-05-23-03-46-50](https://github.com/kainlighty/LightStaffList/assets/111251772/d84eae80-6c75-4a02-9ff4-3acf87ac5cef)
+![1](https://github.com/kainlighty/LightStaffList/assets/111251772/19e4060a-85d0-4844-befb-d6e11f7edc27)
 
 ### › Commands
 - /lightstafflist » Online staff list
