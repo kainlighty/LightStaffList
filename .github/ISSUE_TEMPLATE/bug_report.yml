@@ -1,6 +1,6 @@
 name: Bug report
 description: Create a bug report
-labels: ["type: bug"]
+labels: ["status: bug", "type: bug"]
 body:
   - type: input
     id: plugin-version
