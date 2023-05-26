@@ -27,3 +27,5 @@ body:
     id: description
     attributes:
       label: Your requeset
+    validations:
+      required: true
