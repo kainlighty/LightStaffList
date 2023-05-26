@@ -1,6 +1,6 @@
 name: Feature request
 description: Create a request
-labels: ["type: enhancement"]
+labels: ["enhancement"]
 body:
   - type: input
     id: plugin-version
